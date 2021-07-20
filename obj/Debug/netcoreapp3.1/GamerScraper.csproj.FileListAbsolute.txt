@@ -1,0 +1,15 @@
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\GamerScraper.exe
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\GamerScraper.deps.json
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\GamerScraper.runtimeconfig.json
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\GamerScraper.runtimeconfig.dev.json
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\GamerScraper.dll
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\GamerScraper.pdb
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.csprojAssemblyReference.cache
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.AssemblyInfo.cs
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.dll
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.pdb
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.genruntimeconfig.cache
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.csproj.CopyComplete

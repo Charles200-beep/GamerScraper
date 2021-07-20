@@ -1,0 +1,2 @@
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Release\netcoreapp3.1\win10-x64\publish\GamerScraper.pdb
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Release\netcoreapp3.1\win10-x64\publish\GamerScraper.exe

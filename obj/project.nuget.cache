@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHKTiT5WBkd8T+YTc5v82an2QEfEKk6WLNizozRtYfWE478zKFOYhs1zS80StiEZs/tP5BQGTI8kZfNixok4lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charl\\source\\repos\\GamerScraper\\GamerScraper\\GamerScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.15\\microsoft.netcore.app.runtime.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.15\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.15.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.15\\microsoft.aspnetcore.app.runtime.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
