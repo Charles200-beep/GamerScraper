@@ -13,3 +13,6 @@ C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\Ga
 C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.genruntimeconfig.cache
 C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\CommandLine.dll
 C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Debug\netcoreapp3.1\GamerScraper.csproj.CopyComplete
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\libvideo.dll
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Debug\netcoreapp3.1\ShellProgressBar.dll
