@@ -235,3 +235,4 @@ C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Release\netcoreapp3.1\
 C:\Users\charl\source\repos\GamerScraper\GamerScraper\obj\Release\netcoreapp3.1\win10-x64\GamerScraper.genruntimeconfig.cache
 C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Release\netcoreapp3.1\win10-x64\Newtonsoft.Json.dll
 C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Release\netcoreapp3.1\win10-x64\libvideo.dll
+C:\Users\charl\source\repos\GamerScraper\GamerScraper\bin\Release\netcoreapp3.1\win10-x64\ShellProgressBar.dll
