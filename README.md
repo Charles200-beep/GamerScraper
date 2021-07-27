@@ -13,4 +13,4 @@ for every option you need to specify a URL and a path with the
 - -p / --path flag.
 
 ## **Notes**
-***You can only download Youtube videos with this tool.***
+***You can only download Youtube videos with the downloadvideo mode.***
