@@ -16,3 +16,6 @@ Example command: ``` GamerScraper.exe downloadvideo -p C:\ -u https://www.youtub
 
 ## **Notes**
 ***You can only download Youtube videos with the downloadvideo mode.***
+
+## **How to compile**
+idk open ```GamerScraper.csproj``` and compile it from VS 2019 or something
