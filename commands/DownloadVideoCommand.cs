@@ -1,9 +1,9 @@
-﻿using System;
+﻿using CommandLine;
+using GamerScraper;
+using GamerScraper.Utilities;
+using System;
 using System.IO;
 using VideoLibrary;
-using GamerScraper;
-using CommandLine;
-using System.Linq;
 
 namespace DownloadVideoCommandFile
 {
@@ -24,41 +24,36 @@ namespace DownloadVideoCommandFile
         private void DownloadVideo()
         {
             //Checks if the URL is well formed, then if it's in an HTTPS or HTTP format, then if the path exists.
-            if (Uri.IsWellFormedUriString(URL, UriKind.Absolute))
+            if (!Utilities.CheckURL(URL))
             {
-                Uri UriURL = new Uri(URL);
-                if (UriURL.Scheme != Uri.UriSchemeHttp && UriURL.Scheme != Uri.UriSchemeHttps)
+                Utilities.ColorfulWriteLine("Bad URL!", ConsoleColor.Red);
+            }
+            else
+            {
+                if (Directory.Exists(path))
                 {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Invalid URL! (The address is neither an HTTP or an HTTPS address.)");
-                    Console.ResetColor();
-                }
-                else
-                {
-                    if (Directory.Exists(path))
+                    //Adds a "\" to the path if it's absent
+                    string fullPath;
+                    if (path.EndsWith(@"\"))
                     {
-                        //Adds a "\" to the path if it's absent
-                        string fullPath;
-                        if (path.EndsWith(@"\"))
-                        {
-                            fullPath = path;
-                        }
-                        else
-                        {
-                            fullPath = path + @"\";
-                        }
-
-                        var youTube = YouTube.Default;
-                        var video = youTube.GetVideo(URL);
-                        File.WriteAllBytes(fullPath + video.FullName, video.GetBytes());
+                        fullPath = path;
                     }
                     else
                     {
-                        Console.WriteLine("Invalid Path!");
+                        fullPath = path + @"\";
                     }
+
+                    var youTube = YouTube.Default;
+                    var video = youTube.GetVideo(URL);
+                    File.WriteAllBytes(fullPath + video.FullName, video.GetBytes());
+                }
+                else
+                {
+                    Console.WriteLine("Invalid Path!");
                 }
             }
         }
     }
+}
 
 }
