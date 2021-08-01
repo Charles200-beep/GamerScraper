@@ -1,5 +1,5 @@
 # GamerScraper
-This is a simple web scraper made in C#.
+This is a simple commandline based web scraper made in C#.
 
 ## **Usage** 
 
